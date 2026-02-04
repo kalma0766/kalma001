@@ -1,0 +1,8 @@
+AZURE_EXISTING_AGENT_ID="Kalma001:9"
+AZURE_ENV_NAME="agents-playground-5168"
+AZURE_LOCATION="eastus2"
+AZURE_SUBSCRIPTION_ID="4e065130-a241-49f5-82ae-456ed7fa8dac"
+AZURE_EXISTING_AIPROJECT_ENDPOINT="https://karifakalma81-8219-resource.services.ai.azure.com/api/projects/karifakalma81-8219"
+AZURE_EXISTING_AIPROJECT_RESOURCE_ID="/subscriptions/4e065130-a241-49f5-82ae-456ed7fa8dac/resourceGroups/rg-karifakalma81-8219/providers/Microsoft.CognitiveServices/accounts/karifakalma81-8219-resource/projects/karifakalma81-8219"
+AZURE_EXISTING_RESOURCE_ID="/subscriptions/4e065130-a241-49f5-82ae-456ed7fa8dac/resourceGroups/rg-karifakalma81-8219/providers/Microsoft.CognitiveServices/accounts/karifakalma81-8219-resource"
+AZD_ALLOW_NON_EMPTY_FOLDER=true
